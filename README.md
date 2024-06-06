@@ -1,4 +1,4 @@
-# 🚀Simple Physic simulations
+# 🚀Simple Physics simulations
 ![Release](https://img.shields.io/badge/Release-v1.0-blueviolet?style=for-the-badge)
 ![Language](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -41,7 +41,7 @@ Note : No copying (even partial) of this code within the scope of the INFO2058/2
     - Press `Right-click` to add a negative charge.
     - Press `Middle-click` to remove a charge.
 
-- `mobile_charge.py` : Simulation of the trajectory of a mobile negative charge between fixed charges. The potential and kinetic energy of the mobile charge and the mouse position are shown in the top left of the screen
+- `mobile_charge.py` : Simulation of the trajectory of a mobile negative charge between fixed charges. The potential and kinetic energy of the mobile charge and the mouse position are shown in the top left of the screen.
 ![Field between fixed and mobile charges](/misc/mobile_charge.png)
     - Press `Left-click` to add a positive charge.
     - Press `Right-click` to add a negative charge.
