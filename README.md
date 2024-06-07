@@ -8,7 +8,7 @@ The final mark for the projects is 15/20 for the mechanics section and 20/20 for
 Note : No copying (even partial) of this code within the scope of the INFO2058/2059 course will be tolerated.
 
 ## ⚙️Mecanics
-- `spaceship.py` : Spaceship simulation. The program simulate the thurst of a spaceship and the gravity exercised by a planet on the spaceship.
+- `spaceship.py` : Spaceship simulation. The program simulate the thurst of a spaceship and the gravity exercised by a planet on the spaceship.<br>
 ![Balistic gameplay](/misc/spaceship.png)
     - Press `Left`/`Right` to adjust the ship nozzle orientation.
     - Press `Up` to light up the nozzle.
