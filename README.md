@@ -20,7 +20,7 @@ Note : No copying (even partial) of this code within the scope of the INFO2058/2
 ![Gesture detection example](/misc/gesture.png)
 
 - `complex_movement.py` : Simulation of the movement of a mobile object. The simulation takes place on a curve with frictions tkane into account and with an initial high potential energy position.
-![Complex movement simulation](/misc/complex_movement.png.png)
+![Complex movement simulation](/misc/complex_movement.png)
 
 - `balistic.py` : Balistic simulation calculating the right timing to drop a bomb on a target. The y velocity and acceleration is shown in the top left of the screen.
 ![Balistic gameplay](/misc/balistic.png)
@@ -57,7 +57,7 @@ Note : No copying (even partial) of this code within the scope of the INFO2058/2
     - Press `C` to automatically handle the magnetic and electrical fields to create a cyclotron.
     - Press `Spacebar` to reset the simulation.
 
-- `motor.py` : Simulation of a direct current motor. The motor is composed at its center of a rotor of 1000 spires. The stator is composed of two permanent magnetcs, the magnetic field go from left to right. The winding inductance is not taken into account.
+- `motor.py` : Simulation of a direct current motor. The motor is composed at its center of a rotor of 1000 spires. The stator is composed of two permanent magnets, the magnetic field go from left to right. The winding inductance is not taken into account.
 ![Direct current motor simulation](/misc/motor.png)
     - Press `Spacebar` to close the circuit.
 
