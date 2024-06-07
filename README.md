@@ -16,18 +16,18 @@ Note : No copying (even partial) of this code within the scope of the INFO2058/2
     - Press `Right-click` to remove a planet.
     - Press `Q` to quit.
 
-- `gesture.py` : Vertical gesture detection program. The acceleration in shown in red, the velocity in green. A vertical and slow gesture from bottom to top to bottom increases the counter.
+- `gesture.py` : Vertical gesture detection program. The acceleration in shown in red, the velocity in green. A vertical and slow gesture from bottom to top to bottom increases the counter.<br>
 ![Gesture detection example](/misc/gesture.png)
 
-- `complex_movement.py` : Simulation of the movement of a mobile object. The simulation takes place on a curve with frictions tkane into account and with an initial high potential energy position.
+- `complex_movement.py` : Simulation of the movement of a mobile object. The simulation takes place on a curve with frictions tkane into account and with an initial high potential energy position.<br>
 ![Complex movement simulation](/misc/complex_movement.png)
 
-- `balistic.py` : Balistic simulation calculating the right timing to drop a bomb on a target. The y velocity and acceleration is shown in the top left of the screen.
+- `balistic.py` : Balistic simulation calculating the right timing to drop a bomb on a target. The y velocity and acceleration is shown in the top left of the screen.<br>
 ![Balistic gameplay](/misc/balistic.png)
     - Press `A` to drop a bomb automatically (the plane should no be moved on the Y axis after being armed).
     - Press `B` to drop a bomb manually.
 
-- `balistic1.py` : Balistic simulation calculating the right timing to fire a projectile on a target.
+- `balistic1.py` : Balistic simulation calculating the right timing to fire a projectile on a target.<br>
 ![Balistic gameplay](/misc/balistic1.png)
     - Press `Right-click` to position the red indicator.
     - Press `A` to initialize the automatic fire.
@@ -35,20 +35,20 @@ Note : No copying (even partial) of this code within the scope of the INFO2058/2
     - Alternatively, press `Up`/`Down` to adjust initial speed, `Left`/`Right` to adjust the canon position to try and aim for the indicator.
 
 ## ⚡Electromagnetism
-- `field.py` : Simulation displaying the electrical field between electrical charges. Red is positive, Black is negative.
+- `field.py` : Simulation displaying the electrical field between electrical charges. Red is positive, Black is negative.<br>
 ![Field between two charges](/misc/field.png)
     - Press `Left-click` to add a positive charge.
     - Press `Right-click` to add a negative charge.
     - Press `Middle-click` to remove a charge.
 
-- `mobile_charge.py` : Simulation of the trajectory of a mobile negative charge between fixed charges. The potential and kinetic energy of the mobile charge and the mouse position are shown in the top left of the screen.
+- `mobile_charge.py` : Simulation of the trajectory of a mobile negative charge between fixed charges. The potential and kinetic energy of the mobile charge and the mouse position are shown in the top left of the screen.<br>
 ![Field between fixed and mobile charges](/misc/mobile_charge.png)
     - Press `Left-click` to add a positive charge.
     - Press `Right-click` to add a negative charge.
     - Press `Middle-click` to remove a charge.
     - Press `N` to place a mobile charge.
 
-- `cyclotron.py` : Simulation of the trajectory of a mobile positive charge in a [cyclotron](https://fr.wikipedia.org/wiki/Cyclotron). The magnetic field is facing outward from the screen.
+- `cyclotron.py` : Simulation of the trajectory of a mobile positive charge in a [cyclotron](https://fr.wikipedia.org/wiki/Cyclotron). The magnetic field is facing outward from the screen.<br>
 ![Field between fixed and mobile charges](/misc/cyclotron.png)
     - Press `Up` to increase the vertical component of the electrical field.
     - Press `Down` to decrease the vertical component of the electrical field.
@@ -57,7 +57,7 @@ Note : No copying (even partial) of this code within the scope of the INFO2058/2
     - Press `C` to automatically handle the magnetic and electrical fields to create a cyclotron.
     - Press `Spacebar` to reset the simulation.
 
-- `motor.py` : Simulation of a direct current motor. The motor is composed at its center of a rotor of 1000 spires. The stator is composed of two permanent magnets, the magnetic field go from left to right. The winding inductance is not taken into account.
+- `motor.py` : Simulation of a direct current motor. The motor is composed at its center of a rotor of 1000 spires. The stator is composed of two permanent magnets, the magnetic field go from left to right. The winding inductance is not taken into account.<br>
 ![Direct current motor simulation](/misc/motor.png)
     - Press `Spacebar` to close the circuit.
 
